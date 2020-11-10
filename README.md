@@ -8,7 +8,7 @@
   - Viñeta 2
 
 
-![texto cualquiera por si no carga la imagen]("./imgs/img.jpg")
+![texto cualquiera por si no carga la imagen](./imgs/img.jpg)
 
 ### Se puede insertar codigo con 
 
